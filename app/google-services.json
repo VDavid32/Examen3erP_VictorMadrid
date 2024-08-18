@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773163608521",
+    "project_id": "examen3erp-victormadrid",
+    "storage_bucket": "examen3erp-victormadrid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773163608521:android:abcec6c375d5d40ab8a018",
+        "android_client_info": {
+          "package_name": "com.example.examen3erp_victormadrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvxRnt0j8Xjr8q8ep02iMegO9FVfxa2ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
